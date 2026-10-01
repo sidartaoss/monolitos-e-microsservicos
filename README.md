@@ -3,7 +3,7 @@
 Guia de referência rápida sobre **dois estilos arquiteturais e os trade-offs entre eles**: o que caracteriza cada um, quando o monolito é a escolha mais sensata, os sinais de que ele saiu do controle e as propriedades de que um microsserviço depende para entregar a autonomia que promete.
 
 > [!NOTE]
-> Síntese pessoal, escrita com minhas palavras, de conceitos consolidados na literatura de arquitetura de software. As fontes estão nas [referências](#referências). Complementa o guia [Fundamentos de Arquitetura de Software](https://github.com/sidartaoss/fundamentos-arquitetura-software).
+> Síntese pessoal de conceitos consolidados na literatura de arquitetura de software. As fontes estão nas [referências](#referências). Complementa o guia [Fundamentos de Arquitetura de Software](https://github.com/sidartaoss/fundamentos-arquitetura-software).
 
 ## Em resumo
 
